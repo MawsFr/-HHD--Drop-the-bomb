@@ -1,0 +1,38 @@
+PODS:
+  - AFNetworking (2.4.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.4.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.4.1)
+  - AFNetworking/Security (2.4.1)
+  - AFNetworking/Serialization (2.4.1)
+  - AFNetworking/UIKit (2.4.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - OMPromises (0.3.0):
+    - OMPromises/Core
+  - OMPromises/Core (0.3.0)
+  - OpenUDID (1.0.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.4)
+  - OMPromises (~> 0.3)
+  - OpenUDID (~> 1.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: 0aabc6fae66d6e5d039eeb21c315843c7aae51ab
+  OMPromises: f5b078dc21ed67b9a17645e7df5fffe78677830f
+  OpenUDID: 5a23b7477755efc2d7871b57aa79ba3089c40b74
+
+COCOAPODS: 0.33.1
